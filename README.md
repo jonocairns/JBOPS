@@ -1,6 +1,7 @@
 
 # JBOPS - Just a Bunch Of Plex Scripts
 
+https://github.com/Cloudbox/Community/wiki/Tautulli-Custom-Scripts
 
 Most of these scripts utilize a combination of [Tautulli](https://github.com/Tautulli/Tautulli), [python-plexapi](https://github.com/pkkid/python-plexapi), and [requests](http://docs.python-requests.org/en/master/user/install/#install).
 
